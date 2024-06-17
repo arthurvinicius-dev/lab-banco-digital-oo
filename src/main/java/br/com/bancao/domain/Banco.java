@@ -1,3 +1,5 @@
+package main.java.br.com.bancao.domain;
+
 import java.util.List;
 
 public class Banco {
